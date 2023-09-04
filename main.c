@@ -2,6 +2,8 @@
 
 int main()
 {
+
+
 printf("group 64");
 printf("*****welcome****");
 
